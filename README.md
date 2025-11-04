@@ -190,3 +190,17 @@ You now have a fully operational **Arkime full-packet capture system** integrate
 * **Cont3xt** and **AbuseIPDB** for OSINT intelligence gathering
 
 This setup provides a complete environment for **network forensic analysis**, **incident investigation**, and **SOC-level packet inspection** workflows.
+
+---
+
+<div>
+    <img src="https://i.imgur.com/lXtA2CW.png" />
+</div>
+
+*Ref 1: Arkime Web Interface*
+
+<div>
+    <img src="https://i.imgur.com/ozHbCSZ.png" />
+</div>
+
+*Ref 2: Cont3xt Web Interface*
