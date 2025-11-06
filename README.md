@@ -1,10 +1,10 @@
-## 🎯 **Objective**
+## **Objective**
 
 To deploy and configure **Arkime** as a full network packet capture and analysis system on Ubuntu, enabling scalable indexing, searching, and enrichment of packet captures (PCAPs) through **Elasticsearch** and integrations such as **MaxMind** for geolocation and **AbuseIPDB** for OSINT enrichment.
 
 ---
 
-## 🧠 **Skills Learned**
+## **Skills Learned**
 
 * Hands-on experience in **deploying and configuring Arkime** for enterprise-level network packet capture and analysis.
 * Gained proficiency in **Linux system administration**, dependency resolution, and service management using `systemctl`.
@@ -14,7 +14,7 @@ To deploy and configure **Arkime** as a full network packet capture and analysis
 
 ---
 
-## 🛠️ **Tools Used**
+## **Tools Used**
 
 * **Arkime** – Open-source full packet capture and analysis system.
 * **Ubuntu 22.04 LTS** – Server environment for hosting Arkime.
@@ -181,7 +181,7 @@ sudo systemctl start arkimeviewer.service
 
 ---
 
-### ✅ **End Result**
+### **End Result**
 
 You now have a fully operational **Arkime full-packet capture system** integrated with:
 
